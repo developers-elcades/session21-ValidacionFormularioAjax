@@ -6,15 +6,15 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-21. Curso Intermedio Laravel 5.2 :  Validación Formularios Ajax
+21. Curso Intermedio Laravel 5.2 :  ValidaciÃ³n Formularios Ajax
 
 
 Appmarket
-Instalación
+InstalaciÃ³n
 
-Después de descargar el proyecto entramos a este.
+DespuÃ©s de descargar el proyecto entramos a este.
 
-$ cd appmaerket
+$ cd appmarket
 Ejecutamos el siguiente comando.
 
 $ composer install
